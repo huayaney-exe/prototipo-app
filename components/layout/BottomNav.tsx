@@ -6,7 +6,7 @@ import { Home, CreditCard, Clock, User } from "lucide-react";
 
 const navItems = [
   { href: "/home", icon: Home, label: "Inicio" },
-  { href: "/banco", icon: CreditCard, label: "Pagar" },
+  { href: "/credito", icon: CreditCard, label: "Pagar" },
   { href: "/historial", icon: Clock, label: "Historial" },
   { href: "/cuenta", icon: User, label: "Cuenta" },
 ];
